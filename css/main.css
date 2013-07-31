@@ -1,0 +1,13 @@
+body{                                                   
+  width 960px;                                          
+}                                                       
+                                                        
+nav{                                                    
+  float:left;                                           
+  width:340px;                                          
+}                                                       
+                                                        
+section{                                                
+  float:left;                                           
+  width: 620pw;                                         
+}      
